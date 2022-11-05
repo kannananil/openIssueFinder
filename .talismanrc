@@ -1,4 +1,6 @@
 fileignoreconfig:
   - filename: package-lock.json
     checksum: b8a63f75fb3433bd7a0a4b59be22aacf33016ffab1d8f2fec190ba96b2e657c1
+  - filename: src/api/github.js
+    checksum: 6633427abe95ed135b8fe21f78617d43c9294fcaf3598e6f8577c263be99a946
 version: ''
