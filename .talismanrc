@@ -2,5 +2,7 @@ fileignoreconfig:
   - filename: bff/src/config/env.js
     checksum: be93ab2d5b003f017afedfcdf5a974dd9e6ff53521595551b17e43e4943f9cd7
   - filename: bff/package-lock.json
-    checksum: 4ad7a7ade381aa571bc7195e0e8e43344b8a6e40d7606792f75e9b104346deca
+    checksum: b5fd402ecd9dee8a90d14f66aab464b439e44d779bc219ab39359df70ae58780
+  - filename: bff/src/api/handlers/github.js
+    checksum: abac0cb91ef0801e45a280902b20910f8a12576f0ca6e7715a1e83dc3c3c2702
 version: ''
