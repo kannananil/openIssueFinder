@@ -3,6 +3,6 @@ const githubHandlers = require('../handlers/github');
 
 const githubRouter = express.Router();
 
-githubRouter.get('/repository', githubHandlers.searchRepositories)
+githubRouter.get('/repository', githubHandlers.listRepositories)
 
 module.exports = githubRouter;

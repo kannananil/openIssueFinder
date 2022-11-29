@@ -4,7 +4,7 @@ fileignoreconfig:
   - filename: bff/package-lock.json
     checksum: b5fd402ecd9dee8a90d14f66aab464b439e44d779bc219ab39359df70ae58780
   - filename: bff/src/api/handlers/github.js
-    checksum: abac0cb91ef0801e45a280902b20910f8a12576f0ca6e7715a1e83dc3c3c2702
+    checksum: 35142a67e3abbd5dc122b922be8ac12628239980aaae87d5b1022cd80daab5f8
   - filename: ui/package-lock.json
     checksum: c2f26ce9e0ed4ec26ab7c660dbc0d357b06cf120b782b9caaf9b2f913f1d4f55
 version: ''
