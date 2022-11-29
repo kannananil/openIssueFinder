@@ -1,10 +1,11 @@
 import './App.css';
 import Repos from './components/Repos';
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (
-    <div className="App">
-      Open Issue Finder
+    <div className='App'>
+      <Navbar/>
       <Repos/>
     </div>
   );

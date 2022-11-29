@@ -1,0 +1,23 @@
+.navbar {
+  padding: 6px 10px;
+  width: 98% !important;
+  margin: 15px 0;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between;
+}
+
+.navbar-title {
+  font-size: 25px !important;
+}
+
+.navbar-icon {
+  height: 38px;
+  width: auto;
+  margin: 2px 10px;
+}
+
+.navbar-left-side {
+  display: flex !important;
+  flex-direction: row !important;
+}
