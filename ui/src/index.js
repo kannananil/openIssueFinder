@@ -7,10 +7,15 @@ import CssBaseline from '@mui/material/CssBaseline';
 import './index.css';
 import App from './App';
 
+export const themeOptions = {
+  palette: {
+    mode: 'dark',
+    primary: { main: '#3f51b5' },
+    secondary: { main: '#f50057' },
+  }
+};
 
-const darkTheme = createTheme({
-  palette: { mode: 'dark' }
-});
+const darkTheme = createTheme(themeOptions);
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
