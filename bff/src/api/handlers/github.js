@@ -32,4 +32,4 @@ const listRepositories = async (req, res) => {
   return res.json(repos?.data);
 };
 
-module.exports = { listRepositories };
+module.exports = { searchRepositories, listRepositories };
