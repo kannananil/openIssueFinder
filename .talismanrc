@@ -5,6 +5,8 @@ fileignoreconfig:
     checksum: b5fd402ecd9dee8a90d14f66aab464b439e44d779bc219ab39359df70ae58780
   - filename: bff/src/api/handlers/github.js
     checksum: 35142a67e3abbd5dc122b922be8ac12628239980aaae87d5b1022cd80daab5f8
+  - filename: bff/src/api/gateway/github.js
+    checksum: 55918937905c87273989cfc56b88986518d89198720cb7f6487b60b7781281d3
   - filename: ui/package-lock.json
     checksum: 0c55fb32c31a8d2b3d7bcb5a599ef270c84d8ee0ef41e341a3a123a1a2ac7dd9
 version: ''
